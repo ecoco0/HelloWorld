@@ -1,0 +1,9 @@
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\bin\Debug\TroubleViewer.exe
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\bin\Debug\TroubleViewer.pdb
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\bin\Debug\TroubleViewer.xml
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\obj\x86\Debug\TroubleViewer.Form1.resources
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\obj\x86\Debug\TroubleViewer.Resources.resources
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\obj\x86\Debug\TroubleViewer.vbproj.GenerateResource.Cache
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\obj\x86\Debug\TroubleViewer.exe
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\obj\x86\Debug\TroubleViewer.xml
+C:\Users\nojiri\documents\visual studio 2010\Projects\TroubleViewer\TroubleViewer\obj\x86\Debug\TroubleViewer.pdb
